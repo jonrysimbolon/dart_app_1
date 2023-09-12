@@ -18,7 +18,7 @@
             "name": "app",
             "request": "launch",
             "type": "dart",
-            "program": "bin/test_null_safety.dart",
+            "program": "bin/challenge.dart",
             "console": "terminal"
         }
     ]

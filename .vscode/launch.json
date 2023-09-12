@@ -12,13 +12,13 @@
 // }
 
 {
-    "version": "0.2.0",
+    "version": "2.17",
     "configurations": [
         {
             "name": "app",
             "request": "launch",
             "type": "dart",
-            "program": "bin/test_break_continue.dart",
+            "program": "bin/test_mixin2.dart",
             "console": "terminal"
         }
     ]

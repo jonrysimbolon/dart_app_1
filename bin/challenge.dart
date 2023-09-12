@@ -7,7 +7,7 @@ void main(List<String> args) {
 
   countBottle = isEgg == true ? 6 : 1;
 
-  //print(countBottle);
+  print(countBottle);
 
 
   //challenge 2

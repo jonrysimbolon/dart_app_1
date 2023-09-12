@@ -5,7 +5,7 @@ void main(List<String> args) {
   print(kampus);
 
   //type 2
-  var girl = 'nayla';
-  var married = girl ?? 'jombs';
+  String? girl = null;
+  var married = girl ?? 'single';
   print(married);
 }

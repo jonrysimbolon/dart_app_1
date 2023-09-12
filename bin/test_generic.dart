@@ -5,11 +5,11 @@ void main(List<String> args) {
 
 class Animal {}
 
-class Bird implements Animal {}
+class Bird extends Animal {}
 
-class Dove implements Bird {}
+class Dove extends Bird {}
 
-class Duck implements Bird {}
+class Duck extends Bird {}
 
 
 // contoh yang lebih advance

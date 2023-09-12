@@ -1,11 +1,24 @@
+// {
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "name": "dart_app_1",
+//             "request": "launch",
+//             "type": "dart",
+//             "program": "bin/dart_app_1.dart",
+//             "console": "terminal"
+//         }
+//     ]
+// }
+
 {
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "dart_app_1",
+            "name": "app",
             "request": "launch",
             "type": "dart",
-            "program": "bin/dart_app_1.dart",
+            "program": "bin/test_function.dart",
             "console": "terminal"
         }
     ]
